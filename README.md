@@ -20,6 +20,6 @@
 
 Youtube Link : https://www.youtube.com/watch?v=LyUFMAUfuLc
 
-https://github.com/muhammed-suhaid/Expense_Tracker_App/assets/106069427/399fdf7c-e59d-4ed9-b164-4df061fd25a8
+https://github.com/muhammed-suhaid/Expense_Tracker_App/assets/106069427/438a83fa-a6d2-4b0f-8155-d55a078e35d7
 
 
