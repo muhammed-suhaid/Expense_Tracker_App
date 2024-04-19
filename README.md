@@ -1,16 +1,25 @@
-# expense_tracker
+# 💼 Expense Tracker : Your Comprehensive Expense Management Solution 💼
 
-A new Flutter project.
 
-## Getting Started
+### Expense Tracker is your ultimate solution for effortlessly keeping track of your expenses. Designed for ease of use and packed with handy features, Expense Tracker helps you record and categorize your spending, providing valuable insights into your financial habits.
 
-This project is a starting point for a Flutter application.
+### Key Features:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Log Expenses**: Easily record your spending with just a few taps.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Categorize Spending**: Sort your expenses into categories like food, leisure, and work for better organization.
+ 
+3. **List and Chart Views**: Get a clear picture of your spending habits with simple list and chart views.
+ 
+4.  **Dark & Light Modes**: Choose your preferred viewing mode for comfortable use anytime, anywhere.
+ 
+5. **Responsive Design**: Enjoy a seamless experience on all your devices, including landscape mode for larger screens.
+ 
+6. **Undo Mistakes**: Don't worry about accidental deletions—you can easily undo them with a tap.
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Youtube Link : https://youtu.be/rjkP8dhgnss?si=rrs1uPzw99UESeRg
+
+https://github.com/muhammed-suhaid/Expense_Tracker_App/assets/106069427/438a83fa-a6d2-4b0f-8155-d55a078e35d7
+
+
