@@ -1,7 +1,7 @@
 # 💼 Expense Tracker : Your Comprehensive Expense Management Solution 💼
 
 
-### ExpenseTrack is your go-to app for effortlessly keeping tabs on your spending. With its user-friendly design and powerful features, ExpenseTrack helps you log and categorize your expenses, giving you clear insights into your money habits.
+### Expense Tracker is your ultimate solution for effortlessly keeping track of your expenses. Designed for ease of use and packed with handy features, Expense Tracker helps you record and categorize your spending, providing valuable insights into your financial habits.
 
 ### Key Features:
 
@@ -17,5 +17,5 @@
  
 6. **Undo Mistakes**: Don't worry about accidental deletions—you can easily undo them with a tap.
 
-### Whether you're managing personal finances or tracking business expenses, ExpenseTrack makes it easy.
+### Whether you're managing personal finances or tracking business expenses, Expense Tracker makes it easy.
 
