@@ -18,7 +18,7 @@
 6. **Undo Mistakes**: Don't worry about accidental deletions—you can easily undo them with a tap.
  
 
-Youtube Link : https://www.youtube.com/watch?v=LyUFMAUfuLc
+Youtube Link : https://youtu.be/rjkP8dhgnss?si=rrs1uPzw99UESeRg
 
 https://github.com/muhammed-suhaid/Expense_Tracker_App/assets/106069427/438a83fa-a6d2-4b0f-8155-d55a078e35d7
 
