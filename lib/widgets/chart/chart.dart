@@ -81,10 +81,7 @@ class Chart extends StatelessWidget {
                         categoryIcons[bucket.category],
                         color: isDarkMode
                             ? Theme.of(context).colorScheme.secondary
-                            : Theme.of(context)
-                                .colorScheme
-                                .primary
-                                .withOpacity(0.7),
+                            : null,
                       ),
                     ),
                   ),
