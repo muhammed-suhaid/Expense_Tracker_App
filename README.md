@@ -17,5 +17,5 @@
  
 6. **Undo Mistakes**: Don't worry about accidental deletions—you can easily undo them with a tap.
 
-### Whether you're managing personal finances or tracking business expenses, ExpenseTrack makes it easy. Start taking control of your finances today!
+### Whether you're managing personal finances or tracking business expenses, ExpenseTrack makes it easy.
 
