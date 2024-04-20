@@ -1,4 +1,4 @@
-# 💼 Expense Tracker : Your Comprehensive Expense Management Solution 💼
+# 💼 Expense Tracker : Your Comprehensive Expense Management Solution
 
 
 ### Expense Tracker is your ultimate solution for effortlessly keeping track of your expenses. Designed for ease of use and packed with handy features, Expense Tracker helps you record and categorize your spending, providing valuable insights into your financial habits.
